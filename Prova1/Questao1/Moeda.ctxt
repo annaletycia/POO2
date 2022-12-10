@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Moeda
+comment1.params=sucessor
+comment1.target=void\ setSucessor(Moeda)
+comment2.params=
+comment2.target=Moeda\ getSucessor()
+comment3.params=diametro
+comment3.target=void\ processaMoeda(double)
+numComments=4

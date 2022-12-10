@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FormaGeometrica
+comment1.params=
+comment1.target=java.lang.String\ getDescricao()
+comment2.params=descricao
+comment2.target=void\ setDescricao(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ desenhar()
+numComments=4

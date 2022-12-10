@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Moeda5Cent
+comment1.params=diametro
+comment1.target=void\ processaMoeda(double)
+numComments=2
