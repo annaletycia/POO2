@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ComandoComposto
+comment1.params=st
+comment1.target=ComandoComposto(java.lang.String)
+comment2.params=p
+comment2.target=void\ add(Programa)
+comment3.params=
+comment3.target=void\ execute()
+numComments=4

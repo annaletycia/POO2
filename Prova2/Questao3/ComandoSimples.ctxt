@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ComandoSimples
+comment1.params=nome
+comment1.target=ComandoSimples(java.lang.String)
+comment2.params=
+comment2.target=void\ execute()
+numComments=3

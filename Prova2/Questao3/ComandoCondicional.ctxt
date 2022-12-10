@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ComandoCondicional
+comment1.params=noIf\ noElse
+comment1.target=ComandoCondicional(Programa,\ Programa)
+comment2.params=
+comment2.target=Programa\ getNoIf()
+comment3.params=
+comment3.target=Programa\ getNoElse()
+comment4.params=
+comment4.target=void\ execute()
+numComments=5
