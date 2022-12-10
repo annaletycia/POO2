@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Inimigo
+comment1.params=
+comment1.target=int\ getX()
+comment2.params=
+comment2.target=int\ getY()
+comment3.params=
+comment3.target=int\ getLife()
+comment4.params=l
+comment4.target=void\ setLife(int)
+comment5.params=dano
+comment5.target=void\ sofrerAtaque(int)
+comment6.params=x\ y
+comment6.target=Inimigo(int,\ int)
+comment7.params=subject\ arg
+comment7.target=void\ update(java.util.Observable,\ java.lang.Object)
+numComments=8
