@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Agent
+comment1.params=l
+comment1.target=Agent(List)
+comment2.params=
+comment2.target=void\ showLog()
+comment3.params=
+comment3.target=void\ run()
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Shares
+comment1.params=n\ v
+comment1.target=Shares(java.lang.String,\ java.lang.Double)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.Double\ getValue()
+numComments=4

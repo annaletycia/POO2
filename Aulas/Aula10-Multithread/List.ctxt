@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=List
+comment1.params=c
+comment1.target=void\ placeCommand(Command)
+comment2.params=i
+comment2.target=Command\ get(int)
+numComments=3

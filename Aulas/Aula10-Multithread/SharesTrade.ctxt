@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SharesTrade()
+comment1.params=name\ value
+comment1.target=SharesTrade(java.lang.String,\ java.lang.Double)
+comment2.params=
+comment2.target=java.lang.String\ buy()
+comment3.params=
+comment3.target=java.lang.String\ sell()
+numComments=4
