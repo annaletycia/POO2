@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=c\ i
+comment0.target=void\ setCommand(Command,\ int)
+comment1.params=i
+comment1.target=void\ pressionar(int)
+comment2.params=c
+comment2.target=void\ executa(Command)
+comment3.params=
+comment3.target=void\ showLog()
+comment4.params=
+comment4.target=void\ replay()
+numComments=5

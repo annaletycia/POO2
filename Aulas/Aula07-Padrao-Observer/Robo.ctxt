@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getX()
+comment1.params=
+comment1.target=int\ getY()
+comment2.params=x
+comment2.target=void\ setX(int)
+comment3.params=y
+comment3.target=void\ setY(int)
+comment4.params=
+comment4.target=void\ moverEsq()
+comment5.params=
+comment5.target=void\ moverDir()
+comment6.params=
+comment6.target=void\ moverCima()
+comment7.params=
+comment7.target=void\ moverBaixo()
+comment8.params=x\ y
+comment8.target=Robo(int,\ int)
+comment9.params=subject\ arg
+comment9.target=void\ update(java.util.Observable,\ java.lang.Object)
+numComments=10
