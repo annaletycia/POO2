@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Estado
+comment1.params=p
+comment1.target=Estado(Personagem)
+comment10.params=dano
+comment10.target=void\ sofrerAtaque(int)
+comment11.params=
+comment11.target=void\ verificarEstado()
+comment2.params=
+comment2.target=void\ setLimites()
+comment3.params=li
+comment3.target=void\ setLimiteInferior(int)
+comment4.params=ls
+comment4.target=void\ setLimiteSuperior(int)
+comment5.params=
+comment5.target=int\ getLimiteSuperior()
+comment6.params=
+comment6.target=int\ getLimiteInferior()
+comment7.params=p
+comment7.target=void\ setPersonagem(Personagem)
+comment8.params=
+comment8.target=Personagem\ getPersonagem()
+comment9.params=vida
+comment9.target=void\ ganharLife(int)
+numComments=12
