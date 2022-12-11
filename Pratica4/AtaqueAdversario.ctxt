@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AtaqueAdversario
+comment1.params=sucessor
+comment1.target=void\ setSucessor(AtaqueAdversario)
+comment2.params=
+comment2.target=AtaqueAdversario\ getSucessor()
+comment3.params=p\ valor
+comment3.target=void\ processaDano(Personagem,\ int)
+comment4.params=nD
+comment4.target=void\ setNivelDano(int)
+comment5.params=
+comment5.target=int\ getNivelDano()
+numComments=6
